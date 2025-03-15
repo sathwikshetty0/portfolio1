@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "name": "Sathwik Shetty N",
+      "titles": [ "Product Developer", "IoT Developer", "Web Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/sathwikshetty0",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Gmail",
+          "url": "mailto:sathwikshettyn0@gmail.com",
+          "class": "fa fa-envelope"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/sathwikshettyn/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/SathwikShettyN",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/sathwik__shetty__/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Phone",
+          "url": "tel:9845604487",
+          "class": "fa fa-solid fa-phone"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        
+        {
+          "name": "Arduino",
+          "class": "devicon-arduino-plain",
+          "level": "100"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "NextJs",
+          "class": "devicon-nextjs-plain",
+          "level": "150"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tensorflow",
+          "class": "devicon-tensorflow-original",
+          "level": "85"
+        },
+        {
+          "name": "opencv",
+          "class": "devicon-opencv-plain",
+          "level": "85"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "85"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-plain",
+          "level": "85"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }

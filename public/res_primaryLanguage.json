@@ -1,0 +1,180 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋Hey! I’m a product developer with expertise in IoT and assistive technology. They have worked on innovative projects like AeroWave, a smart helmet for deaf riders, and Prostify, an advanced prosthetic arm. Their work focuses on creating inclusive, impactful solutions using AI and advanced hardware. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "achivements": "Achivements"
+      }
+    },
+    "projects": [
+      {
+        "title": "AEROWAVE",
+        "startDate": "2024 - Present",
+        "description": "Developed a smart helmet equipped with AI-driven sound recognition and vibration feedback to convert environmental sounds into tactile sensations for deaf riders, improving their awareness and safety on the road.",
+        "images": [
+          "images/portfolio/aerowave/v1.jpg",
+          "images/portfolio/aerowave/p1.jpg",
+          "images/portfolio/aerowave/p2.jpg",
+          "images/portfolio/aerowave/p3.jpg",
+          "images/portfolio/aerowave/p4.jpg",
+          "images/portfolio/aerowave/p5.jpg",
+          "images/portfolio/aerowave/p6.jpg"
+        ],
+        "url": "https://www.youtube.com/watch?v=sT-B3ahe4l4&feature=youtu.be",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": " WATCHDOG",
+        "startDate": "2025",
+        "description": "Wide Area Threat Control And High Definition Observation Grid- Developed a versatile and intelligent defense system designed for military applications, capable of real-time surveillance, threat detection, and multidirectional movement using IoT and vision technologies.)",
+        "images": [
+          "images/portfolio/ads/p1.jpg",
+          "images/portfolio/ads/p2.jpg",
+          "images/portfolio/ads/p3.jpg",  
+          "images/portfolio/ads/p4.jpg",
+          "images/portfolio/ads/p5.jpg",
+          "images/portfolio/ads/p6.jpg",
+          "images/portfolio/ads/p7.jpg"
+        ],
+        "url": " ",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          },
+          {
+            "class": "devicon-raspberrypi-plain",
+            "name": "Raspberry Pi"
+          }
+        ]
+      },
+      {
+        "title": "PROSTIFY",
+        "startDate": "2023",
+        "description": "Developed a myoelectric prosthetic arm that allows users to control movements through natural muscle signals. The arm is equipped with AI-driven object recognition and grip control, enabling users to perform complex tasks with ease.",
+        "images": [
+          "images/portfolio/prostify/p1.jpg",
+          "images/portfolio/prostify/p2.jpg",
+          "images/portfolio/prostify/p3.jpg",
+          "images/portfolio/prostify/p4.jpg",
+          "images/portfolio/prostify/p5.jpg",
+          "images/portfolio/prostify/p6.jpg"
+
+        ],
+        "url": "https://www.youtube.com/watch?v=ZncFhM9QeYM",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dexes Ed-tech",
+        "title": "Product Developer",
+        "years": "01.2025 - present",
+        "mainTech": [
+          "NextJs"
+        ],
+        "technologies": [
+          "NextJs",
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "NodeJs",
+          "tailwindcss",
+          "supabase",
+          "llms",
+          "chatbot",
+          "langchain",
+          "langflow",
+          "vercel"
+        ]
+      },
+      {
+        "company": "Aarvath Mobitech",
+        "title": "Product Developer",
+        "years": "05.2024 - 01.2025",
+        "mainTech": [
+          "Battery Management System"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "BMS",
+          "IoT",
+          "AI"
+        ]
+      },
+      {
+        "company": "Udbhav Sahyadri Tech ",
+        "title": "Intern",
+        "years": "10.2023 - 02.2023",
+        "mainTech": [
+          "Wearable Technology"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "Wearable Tech",
+          "IoT",
+          "AI"
+        ]
+      },
+      {
+        "company": "Agnihotri Aerospace",
+        "title": "Product Developer",
+        "years": "12.2022 - 06.2024",
+        "mainTech": [
+          "Avionics Systems"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "ciruit design",
+          "open rocket",
+          "IoT",
+          "AI"
+        ]
+      }
+    ]
+  }
