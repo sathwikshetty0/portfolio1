@@ -247,7 +247,7 @@ class About extends Component {
                           data-inline="false"
                           style={{ fontSize: "20px", marginRight: "10px" }}
                         ></span>
-                        View Resume
+                        Resume
                       </button>
                     </div>
                   </div>
