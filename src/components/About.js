@@ -149,11 +149,11 @@ class About extends Component {
                   />
                   <Icon
                     icon={nextjsIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "150%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={cIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "350%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
