@@ -17,12 +17,12 @@
         "description": "Developed a smart helmet equipped with AI-driven sound recognition and vibration feedback to convert environmental sounds into tactile sensations for deaf riders, improving their awareness and safety on the road.",
         "images": [
           "images/portfolio/aerowave/v1.jpg",
+          "images/portfolio/aerowave/p5.jpg",
+          "images/portfolio/aerowave/p6.jpg",
           "images/portfolio/aerowave/p1.jpg",
           "images/portfolio/aerowave/p2.jpg",
           "images/portfolio/aerowave/p3.jpg",
-          "images/portfolio/aerowave/p4.jpg",
-          "images/portfolio/aerowave/p5.jpg",
-          "images/portfolio/aerowave/p6.jpg"
+          "images/portfolio/aerowave/p4.jpg"
         ],
         "url": "https://www.youtube.com/watch?v=sT-B3ahe4l4&feature=youtu.be",
         "technologies": [
@@ -77,9 +77,106 @@
           }
         ]
       },
+      
+      {
+        "title": "Disaster Management System",
+        "startDate": "2025",
+        "description": "This project focuses on developing a real-time flood detection and management system using ESP32 and multiple environmental sensors. The system monitors water levels, rainfall, humidity, and temperature, integrating live weather data via an API for enhanced accuracy. A graphical user interface (GUI) serves as the central monitoring hub, allowing real-time data visualization and manual controls. Additionally, a Telegram bot provides instant alerts upon detecting anomalies. The system has been rigorously tested under simulated conditions, ensuring high reliability in early warning and disaster response, making it a robust and efficient solution for disaster preparedness.",
+        "images": [
+          "images/portfolio/disaster/p1.jpg",
+          "images/portfolio/disaster/p2.jpg",
+          "images/portfolio/disaster/p3.jpg"
+
+        ],
+        "url": "..",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+          
+        ]
+      },
+      {
+        "title": "chatbot",
+        "startDate": "2025",
+        "description": "This project focuses on developing a smart chatbot system with two key applications: a student-focused chatbot and a teacher dashboard assistant. Built using Next.js for the frontend, the chatbot provides an interactive and user-friendly interface for seamless communication. The system has been adapted to be child-friendly by refining prompts and functionality. For the teacher dashboard, the chatbot is designed with a compact UI, featuring a blue hover button that expands into a curved chatbot panel on the right side of the screen. This allows educators to quickly access AI-driven assistance without disrupting their workflow.The chatbot supports local AI models through Ollama, ensuring offline functionality with memory retention for ongoing conversations. This integration makes the system efficient, responsive, and adaptable for both students and educators, enhancing the overall learning experience.",
+        "images": [
+          "images/portfolio/chatbot/p1.jpg"
+
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "NextJs"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "tailwindcss"
+          },
+          {
+            "class": "devicon-supabase-plain",
+            "name": "supabase"
+          },
+          {
+            "class": "devicon-llms-plain",
+            "name": "llms"
+          },
+          {
+            "class": "devicon-chatbot-plain",
+            "name": "chatbot"
+          },
+          {
+            "class": "devicon-langchain-plain",
+            "name": "langchain"
+          },
+          {
+            "class": "devicon-langflow-plain",
+            "name": "langflow"
+          }
+        ]
+      },
+      {
+        "title": "Battery Management System",
+        "startDate": "2024",
+        "description": "The Battery Management System (BMS) I developed is an advanced smart energy management solution designed to optimize the charging and discharging of multiple battery packs. It features four 12V battery packs, each monitored individually using ESP32 and relays to ensure balanced power distribution. The system intelligently switches between direct charging and solar charging using dedicated relays, preventing overcharging and improving battery lifespan. With real-time voltage monitoring, automated switching, and an efficient charge-discharge algorithm, this BMS enhances the reliability and performance of energy storage systems, making it ideal for applications in renewable energy, electric vehicles, and autonomous systems.",
+        "images": [
+          "images/portfolio/bms/p1.jpg"
+
+        ],
+        "url": "  ",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+          
+        ]
+      },
       {
         "title": "PROSTIFY",
-        "startDate": "2023",
+        "startDate": "2023-24",
         "description": "Developed a myoelectric prosthetic arm that allows users to control movements through natural muscle signals. The arm is equipped with AI-driven object recognition and grip control, enabling users to perform complex tasks with ease.",
         "images": [
           "images/portfolio/prostify/p1.jpg",
@@ -102,7 +199,75 @@
           }
           
         ]
+      },
+      {
+        "title": "Hostel Management System",
+        "startDate": "2023",
+        "description": "The Hostel Database Management System (DBMS) streamlines hostel administration by providing a centralized platform for managing student registration, room allocation, fee management, and user authentication. With a user-friendly interface, administrators can efficiently update and access data, ensuring smooth operations and transparency. The system automates routine tasks, reducing manual errors and improving efficiency. Additionally, it maintains data integrity to safeguard sensitive information and comply with regulations. A dedicated student portal allows residents to check updates related to their accommodation, making the system a comprehensive and reliable solution for hostel management.",
+        "images": [
+          "images/portfolio/hostel/p1.jpg",
+          "images/portfolio/hostel/p2.jpg",
+          "images/portfolio/hostel/p3.jpg",
+          "images/portfolio/hostel/p4.jpg"
+
+        ],
+        "url": "..",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+          
+        ]
+      },
+      {
+        "title": "HOME AUTOMATION",
+        "startDate": "2023",
+        "description": "This project focuses on developing a smart home automation system using ESP32 and relay modules to control electrical appliances remotely. The system enables users to turn devices on/off via a web-based interface or a mobile application, ensuring convenience and energy efficiency. The ESP32 microcontroller connects to Wi-Fi, allowing seamless communication and real-time control. Additionally, integration with voice assistants or MQTT protocols enhances automation capabilities. With secure access controls and customizable automation rules, this system provides a smart, efficient, and user-friendly solution for modern home automation.",
+        "images": [
+          "images/portfolio/home/p1.jpg"
+
+        ],
+        "url": "https://www.youtube.com/watch?v=ZncFhM9QeYM",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      },
+      
+      {
+        "title": "ESP Flight Stabilizer",
+        "startDate": "2023",
+        "description": "This project focuses on developing an ESP-based flight stabilization system for rockets during free fall. It utilizes four servo-controlled wings to maintain stability and keep the rocket upright during descent. A barometer sensor is used to detect altitude, triggering automatic landing gear deployment when the rocket nears the ground. The ESP32 microcontroller ensures real-time adjustments, enhancing precision and control. Designed for autonomous descent stabilization and landing, this system improves the reliability of small-scale experimental rockets, making it an efficient and cost-effective solution for aerospace applications. 🚀",
+        "images": [
+          "images/portfolio/flight/p1.jpg"
+
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
       }
+      
     ],
     "experience": [
       {
@@ -175,6 +340,36 @@
           "IoT",
           "AI"
         ]
+      }
+    ],
+    "achievements": [
+        {
+            "title": "Research Paper Presentation - IC3IA 2025",
+            "description": "Presented a research paper on 'Autonomous Defense System (WATCHDOG)' at the International Conference on Computational Complexity and Intelligent Algorithms (IC3IA) on March 8-9, 2025. The conference was hosted by Shri Jain Girls PG College, Bikaner, in collaboration with multiple international institutions.",
+            "images": [
+              "images/portfolio/aaa/p2.jpg"
+            ]
+        },
+        {
+            "title": "Provisional Patent - AeroWave",
+            "description": "Filed a provisional patent for AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/p3.jpg"
+            ]
+        },
+        {
+            "title": "Design Patent - Uncrewed Aircraft System (UAS)",
+            "description": "Filed a design patent for an Uncrewed Aircraft System (UAS), submitted to the Indian Patent Office, focusing on aerospace innovation.",
+            "images": [
+              "images/portfolio/aaa/p4.jpg"
+            ]
+        },
+        {
+          "title": "Finalist at FKCCI Manthan 2024",
+          "description": "Selected as a Top 10 finalist at FKCCI Manthan 2024, recognized for an innovative project and awarded a consolation prize.",
+          "images": [
+            "images/portfolio/aaa/p1.jpg"
+          ]
       }
     ]
   }
