@@ -271,9 +271,22 @@
     ],
     "experience": [
       {
+        "company": "Inunity LLP",
+        "title": "Makerspace Assistant",
+        "years": "05.2025 - present",
+        "mainTech": [
+          "Teaching"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python"
+        ]
+      },
+      {
         "company": "Dexes Ed-tech",
         "title": "Product Developer",
-        "years": "01.2025 - present",
+        "years": "01.2025 - 05.2025",
         "mainTech": [
           "NextJs"
         ],
