@@ -24,7 +24,7 @@
           "images/portfolio/aerowave/p3.jpg",
           "images/portfolio/aerowave/p4.jpg"
         ],
-        "url": "https://www.youtube.com/watch?v=sT-B3ahe4l4&feature=youtu.be",
+        "url": "https://sathwik-aerowave.vercel.app/",
         "technologies": [
           {
             "class": "devicon-arduino-plain",
@@ -150,6 +150,133 @@
         ]
       },
       {
+        "title": "Keyboard with Gesture Control",
+        "startDate": "2025",
+        "description": "This project presents an innovative, contactless virtual keyboard that leverages computer vision and hand gesture recognition. By using hand gestures captured via webcam, users can interact with a floating on-screen keyboard, enabling hygienic and futuristic typing—ideal for touchless kiosks, accessibility interfaces, and smart environments.",
+        "images": [
+          "images/portfolio/key/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Eye-Controlled-Mouse",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          },
+          {
+            "class": "devicon-Media-plain",
+            "name": "MediaPipe"
+          }
+          
+        ]
+      },
+      {
+        "title": "Arduino Test Kit",
+        "startDate": "2025",
+        "description": "This project turns an Arduino Mega into a comprehensive, all-in-one diagnostic tool for testing the most common components used in hobby electronics and robotics projects. Using a simple menu-driven interface on an OLED display and push buttons, you can quickly verify the functionality of various modules without needing to write a new sketch for each part.This Test Kit was specifically designed for the Arduino Mega to overcome the memory and pin limitations of smaller boards like the Arduino Uno, allowing all test functionalities to coexist in a single, robust program.",
+        "images": [
+          "images/portfolio/testkit/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/ARDUINO-TEST-KIT",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      },
+      {
+        "title": "Real-Time Pose Detection",
+        "startDate": "2025",
+        "description": " Real-Time Pose Detection with MediaPipe and OpenCV-This project demonstrates real-time human pose detection using the MediaPipe Pose solution and OpenCV. It captures video from your webcam, processes each frame to detect body landmarks, and overlays the detected pose on the live video feed.",
+        "images": [
+          "images/portfolio/pose/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Real-Time-Pose-Detection-with-MediaPipe-and-OpenCV",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Rock-Paper-Scissors",
+        "startDate": "2025",
+        "description": "Rock-Paper-Scissors with Hand Detection - A fun computer vision game built with Python, OpenCV, and the cvzone library. Play Rock-Paper-Scissors against an AI using hand gestures captured through your webcam!",
+        "images": [
+          "images/portfolio/rock/p1.jpg",
+          "images/portfolio/rock/p2.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Rock-Paper-Scissors-with-Hand-Detection-",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Eye-Controlled-Mouse",
+        "startDate": "2025",
+        "description": "This project enables mouse control using eye movements detected from a webcam feed.The program tracks eye landmarksusing MediaPipe Face Mesh and moves the mousepointer accordingly. It also detects blinking to perform mouse clicks.",
+        "images": [
+          "images/portfolio/mouse/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Eye-Controlled-Mouse",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Mail Dispather",
+        "startDate": "2025",
+        "description": "A lightweight web application for sending emails to recipients specified in a CSV file..",
+        "images": [
+          "images/portfolio/mail/p1.jpg",
+          "images/portfolio/mail/p2.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/mail_dispather",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "CSS"
+          }
+          
+        ]
+      },
+      
+      {
         "title": "Battery Management System",
         "startDate": "2024",
         "description": "The Battery Management System (BMS) I developed is an advanced smart energy management solution designed to optimize the charging and discharging of multiple battery packs. It features four 12V battery packs, each monitored individually using ESP32 and relays to ensure balanced power distribution. The system intelligently switches between direct charging and solar charging using dedicated relays, preventing overcharging and improving battery lifespan. With real-time voltage monitoring, automated switching, and an efficient charge-discharge algorithm, this BMS enhances the reliability and performance of energy storage systems, making it ideal for applications in renewable energy, electric vehicles, and autonomous systems.",
@@ -268,12 +395,27 @@
         ]
       }
       
+      
     ],
+    
     "experience": [
+       {
+        "company": "Inunity LLP",
+        "title": "Assistant Program Mentor",
+        "years": "05.2025 - present",
+        "mainTech": [
+          "Teaching"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python"
+        ]
+      },
       {
         "company": "Inunity LLP",
         "title": "Makerspace Assistant",
-        "years": "05.2025 - present",
+        "years": "05.2025 - 08.2025",
         "mainTech": [
           "Teaching"
         ],
