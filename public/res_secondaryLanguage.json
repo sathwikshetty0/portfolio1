@@ -1,180 +1,544 @@
 {
-  "basic_info": {
-    "description_header": "Hi",
-    "description": "👋Hey! I’m a product developer with expertise in IoT and assistive technology. They have worked on innovative projects like AeroWave, a smart helmet for deaf riders, and Prostify, an advanced prosthetic arm. Their work focuses on creating inclusive, impactful solutions using AI and advanced hardware. Thank you 💜",
-    "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience",
-      "achivements": "Achivements"
-    }
-  },
-  "projects": [
-    {
-      "title": "AEROWAVE",
-      "startDate": "2024 - Present",
-      "description": "Developed a smart helmet equipped with AI-driven sound recognition and vibration feedback to convert environmental sounds into tactile sensations for deaf riders, improving their awareness and safety on the road.",
-      "images": [
-        "images/portfolio/aerowave/v1.jpg",
-        "images/portfolio/aerowave/p1.jpg",
-        "images/portfolio/aerowave/p2.jpg",
-        "images/portfolio/aerowave/p3.jpg",
-        "images/portfolio/aerowave/p4.jpg",
-        "images/portfolio/aerowave/p5.jpg",
-        "images/portfolio/aerowave/p6.jpg"
-      ],
-      "url": "https://www.youtube.com/watch?v=sT-B3ahe4l4&feature=youtu.be",
-      "technologies": [
-        {
-          "class": "devicon-arduino-plain",
-          "name": "Arduino"
-        },
-        {
-          "class": "devicon-tensorflow-original",
-          "name": "Tensorflow"
-        },
-        {
-          "class": "devicon-c-plain",
-          "name": "C"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        }
-      ]
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hey! I’m a Product Developer with expertise in IoT, Embedded Systems, and AI-driven solutions. I’ve worked on innovative projects like AeroWave, a smart helmet for deaf riders, and Prostify, a myoelectric prosthetic arm. I also developed WATCHDOG, an autonomous defense system using IoT and vision technologies. Currently, I’m interning as a Software Developer at Dexes EdTech, working on their LMS platform while exploring web development with Next.js. Passionate about building tech-driven solutions, I aim to create impactful innovations that enhance accessibility and safety. 🚀. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "achivements": "Achivements"
+      }
     },
-    {
-      "title": " WATCHDOG",
-      "startDate": "2025",
-      "description": "Wide Area Threat Control And High Definition Observation Grid- Developed a versatile and intelligent defense system designed for military applications, capable of real-time surveillance, threat detection, and multidirectional movement using IoT and vision technologies.)",
-      "images": [
-        "images/portfolio/ads/p1.jpg",
-        "images/portfolio/ads/p2.jpg",
-        "images/portfolio/ads/p3.jpg",  
-        "images/portfolio/ads/p4.jpg",
-        "images/portfolio/ads/p5.jpg",
-        "images/portfolio/ads/p6.jpg",
-        "images/portfolio/ads/p7.jpg"
-      ],
-      "url": " ",
-      "technologies": [
-        {
-          "class": "devicon-arduino-plain",
-          "name": "Arduino"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-opencv-plain",
-          "name": "Opencv"
-        },
-        {
-          "class": "devicon-raspberrypi-plain",
-          "name": "Raspberry Pi"
-        }
-      ]
-    },
-    {
-      "title": "PROSTIFY",
-      "startDate": "2023",
-      "description": "Developed a myoelectric prosthetic arm that allows users to control movements through natural muscle signals. The arm is equipped with AI-driven object recognition and grip control, enabling users to perform complex tasks with ease.",
-      "images": [
-        "images/portfolio/prostify/p1.jpg",
-        "images/portfolio/prostify/p2.jpg",
-        "images/portfolio/prostify/p3.jpg",
-        "images/portfolio/prostify/p4.jpg",
-        "images/portfolio/prostify/p5.jpg",
-        "images/portfolio/prostify/p6.jpg"
+    "projects": [
+      {
+        "title": "AEROWAVE",
+        "startDate": "2024 - Present",
+        "description": "Developed a smart helmet equipped with AI-driven sound recognition and vibration feedback to convert environmental sounds into tactile sensations for deaf riders, improving their awareness and safety on the road.",
+        "images": [
+          "images/portfolio/aerowave/v1.jpg",
+          "images/portfolio/aerowave/p5.jpg",
+          "images/portfolio/aerowave/p6.jpg",
+          "images/portfolio/aerowave/v2.jpg",
+          "images/portfolio/aerowave/v3.jpg",
+          "images/portfolio/aerowave/p3.jpg",
+          "images/portfolio/aerowave/p4.jpg"
+        ],
+        "url": "https://sathwik-aerowave.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": " WATCHDOG",
+        "startDate": "2025",
+        "description": "Wide Area Threat Control And High Definition Observation Grid- Developed a versatile and intelligent defense system designed for military applications, capable of real-time surveillance, threat detection, and multidirectional movement using IoT and vision technologies.)",
+        "images": [
+          "images/portfolio/ads/p1.jpg",
+          "images/portfolio/ads/p2.jpg",
+          "images/portfolio/ads/p3.jpg",  
+          "images/portfolio/ads/p4.jpg",
+          "images/portfolio/ads/p5.jpg",
+          "images/portfolio/ads/p6.jpg",
+          "images/portfolio/ads/p7.jpg"
+        ],
+        "url": " ",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          },
+          {
+            "class": "devicon-raspberrypi-plain",
+            "name": "Raspberry Pi"
+          }
+        ]
+      },
+      
+      {
+        "title": "Disaster Management System",
+        "startDate": "2025",
+        "description": "This project focuses on developing a real-time flood detection and management system using ESP32 and multiple environmental sensors. The system monitors water levels, rainfall, humidity, and temperature, integrating live weather data via an API for enhanced accuracy. A graphical user interface (GUI) serves as the central monitoring hub, allowing real-time data visualization and manual controls. Additionally, a Telegram bot provides instant alerts upon detecting anomalies. The system has been rigorously tested under simulated conditions, ensuring high reliability in early warning and disaster response, making it a robust and efficient solution for disaster preparedness.",
+        "images": [
+          "images/portfolio/disaster/p1.jpg",
+          "images/portfolio/disaster/p2.jpg",
+          "images/portfolio/disaster/p3.jpg"
 
-      ],
-      "url": "https://www.youtube.com/watch?v=ZncFhM9QeYM",
-      "technologies": [
+        ],
+        "url": "..",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+          
+        ]
+      },
+      {
+        "title": "chatbot",
+        "startDate": "2025",
+        "description": "This project focuses on developing a smart chatbot system with two key applications: a student-focused chatbot and a teacher dashboard assistant. Built using Next.js for the frontend, the chatbot provides an interactive and user-friendly interface for seamless communication. The system has been adapted to be child-friendly by refining prompts and functionality. For the teacher dashboard, the chatbot is designed with a compact UI, featuring a blue hover button that expands into a curved chatbot panel on the right side of the screen. This allows educators to quickly access AI-driven assistance without disrupting their workflow.The chatbot supports local AI models through Ollama, ensuring offline functionality with memory retention for ongoing conversations. This integration makes the system efficient, responsive, and adaptable for both students and educators, enhancing the overall learning experience.",
+        "images": [
+          "images/portfolio/chatbot/p1.jpg"
+
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "NextJs"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "tailwindcss"
+          },
+          {
+            "class": "devicon-supabase-plain",
+            "name": "supabase"
+          },
+          {
+            "class": "devicon-llms-plain",
+            "name": "llms"
+          },
+          {
+            "class": "devicon-chatbot-plain",
+            "name": "chatbot"
+          },
+          {
+            "class": "devicon-langchain-plain",
+            "name": "langchain"
+          },
+          {
+            "class": "devicon-langflow-plain",
+            "name": "langflow"
+          }
+        ]
+      },
+      {
+        "title": "Keyboard with Gesture Control",
+        "startDate": "2025",
+        "description": "This project presents an innovative, contactless virtual keyboard that leverages computer vision and hand gesture recognition. By using hand gestures captured via webcam, users can interact with a floating on-screen keyboard, enabling hygienic and futuristic typing—ideal for touchless kiosks, accessibility interfaces, and smart environments.",
+        "images": [
+          "images/portfolio/key/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Eye-Controlled-Mouse",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          },
+          {
+            "class": "devicon-Media-plain",
+            "name": "MediaPipe"
+          }
+          
+        ]
+      },
+      {
+        "title": "Arduino Test Kit",
+        "startDate": "2025",
+        "description": "This project turns an Arduino Mega into a comprehensive, all-in-one diagnostic tool for testing the most common components used in hobby electronics and robotics projects. Using a simple menu-driven interface on an OLED display and push buttons, you can quickly verify the functionality of various modules without needing to write a new sketch for each part.This Test Kit was specifically designed for the Arduino Mega to overcome the memory and pin limitations of smaller boards like the Arduino Uno, allowing all test functionalities to coexist in a single, robust program.",
+        "images": [
+          "images/portfolio/testkit/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/ARDUINO-TEST-KIT",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      },
+      {
+        "title": "Real-Time Pose Detection",
+        "startDate": "2025",
+        "description": " Real-Time Pose Detection with MediaPipe and OpenCV-This project demonstrates real-time human pose detection using the MediaPipe Pose solution and OpenCV. It captures video from your webcam, processes each frame to detect body landmarks, and overlays the detected pose on the live video feed.",
+        "images": [
+          "images/portfolio/pose/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Real-Time-Pose-Detection-with-MediaPipe-and-OpenCV",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Rock-Paper-Scissors",
+        "startDate": "2025",
+        "description": "Rock-Paper-Scissors with Hand Detection - A fun computer vision game built with Python, OpenCV, and the cvzone library. Play Rock-Paper-Scissors against an AI using hand gestures captured through your webcam!",
+        "images": [
+          "images/portfolio/rock/p1.jpg",
+          "images/portfolio/rock/p2.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Rock-Paper-Scissors-with-Hand-Detection-",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Eye-Controlled-Mouse",
+        "startDate": "2025",
+        "description": "This project enables mouse control using eye movements detected from a webcam feed.The program tracks eye landmarksusing MediaPipe Face Mesh and moves the mousepointer accordingly. It also detects blinking to perform mouse clicks.",
+        "images": [
+          "images/portfolio/mouse/p1.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/Eye-Controlled-Mouse",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "Opencv"
+          }
+          
+        ]
+      },
+      {
+        "title": "Mail Dispather",
+        "startDate": "2025",
+        "description": "A lightweight web application for sending emails to recipients specified in a CSV file..",
+        "images": [
+          "images/portfolio/mail/p1.jpg",
+          "images/portfolio/mail/p2.jpg"
+        ],
+        "url": "https://github.com/sathwikshetty0/mail_dispather",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "CSS"
+          }
+          
+        ]
+      },
+      
+      {
+        "title": "Battery Management System",
+        "startDate": "2024",
+        "description": "The Battery Management System (BMS) I developed is an advanced smart energy management solution designed to optimize the charging and discharging of multiple battery packs. It features four 12V battery packs, each monitored individually using ESP32 and relays to ensure balanced power distribution. The system intelligently switches between direct charging and solar charging using dedicated relays, preventing overcharging and improving battery lifespan. With real-time voltage monitoring, automated switching, and an efficient charge-discharge algorithm, this BMS enhances the reliability and performance of energy storage systems, making it ideal for applications in renewable energy, electric vehicles, and autonomous systems.",
+        "images": [
+          "images/portfolio/bms/p1.jpg"
+
+        ],
+        "url": "  ",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+          
+        ]
+      },
+      {
+        "title": "PROSTIFY",
+        "startDate": "2023-24",
+        "description": "Developed a myoelectric prosthetic arm that allows users to control movements through natural muscle signals. The arm is equipped with AI-driven object recognition and grip control, enabling users to perform complex tasks with ease.",
+        "images": [
+          "images/portfolio/prostify/p1.jpg",
+          "images/portfolio/prostify/p2.jpg",
+          "images/portfolio/prostify/p3.jpg",
+          "images/portfolio/prostify/p4.jpg",
+          "images/portfolio/prostify/p5.jpg",
+          "images/portfolio/prostify/p6.jpg"
+
+        ],
+        "url": "https://www.youtube.com/watch?v=ZncFhM9QeYM",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      },
+      {
+        "title": "Hostel Management System",
+        "startDate": "2023",
+        "description": "The Hostel Database Management System (DBMS) streamlines hostel administration by providing a centralized platform for managing student registration, room allocation, fee management, and user authentication. With a user-friendly interface, administrators can efficiently update and access data, ensuring smooth operations and transparency. The system automates routine tasks, reducing manual errors and improving efficiency. Additionally, it maintains data integrity to safeguard sensitive information and comply with regulations. A dedicated student portal allows residents to check updates related to their accommodation, making the system a comprehensive and reliable solution for hostel management.",
+        "images": [
+          "images/portfolio/hostel/p1.jpg",
+          "images/portfolio/hostel/p2.jpg",
+          "images/portfolio/hostel/p3.jpg",
+          "images/portfolio/hostel/p4.jpg"
+
+        ],
+        "url": "..",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+          
+        ]
+      },
+      {
+        "title": "HOME AUTOMATION",
+        "startDate": "2023",
+        "description": "This project focuses on developing a smart home automation system using ESP32 and relay modules to control electrical appliances remotely. The system enables users to turn devices on/off via a web-based interface or a mobile application, ensuring convenience and energy efficiency. The ESP32 microcontroller connects to Wi-Fi, allowing seamless communication and real-time control. Additionally, integration with voice assistants or MQTT protocols enhances automation capabilities. With secure access controls and customizable automation rules, this system provides a smart, efficient, and user-friendly solution for modern home automation.",
+        "images": [
+          "images/portfolio/home/p1.jpg"
+
+        ],
+        "url": "https://www.youtube.com/watch?v=ZncFhM9QeYM",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      },
+      
+      {
+        "title": "ESP Flight Stabilizer",
+        "startDate": "2023",
+        "description": "This project focuses on developing an ESP-based flight stabilization system for rockets during free fall. It utilizes four servo-controlled wings to maintain stability and keep the rocket upright during descent. A barometer sensor is used to detect altitude, triggering automatic landing gear deployment when the rocket nears the ground. The ESP32 microcontroller ensures real-time adjustments, enhancing precision and control. Designed for autonomous descent stabilization and landing, this system improves the reliability of small-scale experimental rockets, making it an efficient and cost-effective solution for aerospace applications. 🚀",
+        "images": [
+          "images/portfolio/flight/p1.jpg"
+
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+          
+        ]
+      }
+      
+      
+    ],
+    
+    "experience": [
+       {
+        "company": "Inunity LLP",
+        "title": "Assistant Program Mentor",
+        "years": "05.2025 - present",
+        "mainTech": [
+          "Teaching"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python"
+        ]
+      },
+      {
+        "company": "Inunity LLP",
+        "title": "Makerspace Assistant",
+        "years": "05.2025 - 08.2025",
+        "mainTech": [
+          "Teaching"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python"
+        ]
+      },
+      {
+        "company": "Dexes Ed-tech",
+        "title": "Product Developer",
+        "years": "01.2025 - 05.2025",
+        "mainTech": [
+          "NextJs"
+        ],
+        "technologies": [
+          "NextJs",
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "NodeJs",
+          "tailwindcss",
+          "supabase",
+          "llms",
+          "chatbot",
+          "langchain",
+          "langflow",
+          "vercel"
+        ]
+      },
+      {
+        "company": "Aarvath Mobitech",
+        "title": "Product Developer",
+        "years": "05.2024 - 01.2025",
+        "mainTech": [
+          "Battery Management System"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "BMS",
+          "IoT",
+          "AI"
+        ]
+      },
+      {
+        "company": "Udbhav Sahyadri Tech ",
+        "title": "Intern",
+        "years": "10.2023 - 02.2023",
+        "mainTech": [
+          "Wearable Technology"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "Wearable Tech",
+          "IoT",
+          "AI"
+        ]
+      },
+      {
+        "company": "Agnihotri Aerospace",
+        "title": "Product Developer",
+        "years": "12.2022 - 06.2024",
+        "mainTech": [
+          "Avionics Systems"
+        ],
+        "technologies": [
+          "Arduino",
+          "C",
+          "Python",
+          "ciruit design",
+          "open rocket",
+          "IoT",
+          "AI"
+        ]
+      }
+    ],
+    "achievements": [
         {
-          "class": "devicon-arduino-plain",
-          "name": "Arduino"
+            "title": "Research Paper Presentation - IC3IA 2025",
+            "description": "Presented a research paper on 'Autonomous Defense System (WATCHDOG)' at the International Conference on Computational Complexity and Intelligent Algorithms (IC3IA) on March 8-9, 2025. The conference was hosted by Shri Jain Girls PG College, Bikaner, in collaboration with multiple international institutions.",
+            "images": [
+              "images/portfolio/aaa/p2.jpg"
+            ]
         },
         {
-          "class": "devicon-c-plain",
-          "name": "C"
-        }
-        
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "Dexes Ed-tech",
-      "title": "Product Developer",
-      "years": "01.2025 - present",
-      "mainTech": [
-        "NextJs"
-      ],
-      "technologies": [
-        "NextJs",
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "NodeJs",
-        "tailwindcss",
-        "supabase",
-        "llms",
-        "chatbot",
-        "langchain",
-        "langflow",
-        "vercel"
-      ]
-    },
-    {
-      "company": "Aarvath Mobitech",
-      "title": "Product Developer",
-      "years": "05.2024 - 01.2025",
-      "mainTech": [
-        "Battery Management System"
-      ],
-      "technologies": [
-        "Arduino",
-        "C",
-        "Python",
-        "BMS",
-        "IoT",
-        "AI"
-      ]
-    },
-    {
-      "company": "Udbhav Sahyadri Tech ",
-      "title": "Intern",
-      "years": "10.2023 - 02.2023",
-      "mainTech": [
-        "Wearable Technology"
-      ],
-      "technologies": [
-        "Arduino",
-        "C",
-        "Python",
-        "Wearable Tech",
-        "IoT",
-        "AI"
-      ]
-    },
-    {
-      "company": "Agnihotri Aerospace",
-      "title": "Product Developer",
-      "years": "12.2022 - 06.2024",
-      "mainTech": [
-        "Avionics Systems"
-      ],
-      "technologies": [
-        "Arduino",
-        "C",
-        "Python",
-        "ciruit design",
-        "open rocket",
-        "IoT",
-        "AI"
-      ]
-    }
-  ]
-}
+            "title": "MSME GRANT",
+            "description": "MSME Grant of 16.5lack for AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/p5.jpg"
+            ]
+        },
+        {
+            "title": "Fetured in Times of India",
+            "description": "AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/p6.jpg"
+            ]
+        },
+        {
+            "title": "Provisional Patent - AeroWave",
+            "description": "Filed a provisional patent for AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/v2.jpg"
+            ]
+        },
+        {
+            "title": "Design Patent - Uncrewed Aircraft System (UAS)",
+            "description": "Filed a design patent for an Uncrewed Aircraft System (UAS), submitted to the Indian Patent Office, focusing on aerospace innovation.",
+            "images": [
+              "images/portfolio/aaa/p4.jpg"
+            ]
+        },
+        {
+          "title": "Finalist at FKCCI Manthan 2024",
+          "description": "Selected as a Top 10 finalist at FKCCI Manthan 2024, recognized for an innovative project and awarded a consolation prize.",
+          "images": [
+            "images/portfolio/aaa/p1.jpg"
+          ]
+      }
+    ]
+  }

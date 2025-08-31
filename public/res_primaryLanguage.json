@@ -506,6 +506,20 @@
             ]
         },
         {
+            "title": "MSME GRANT",
+            "description": "MSME Grant of 16.5lack for AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/p5.jpg"
+            ]
+        },
+        {
+            "title": "Fetured in Times of India",
+            "description": "AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
+            "images": [
+              "images/portfolio/aaa/p6.jpg"
+            ]
+        },
+        {
             "title": "Provisional Patent - AeroWave",
             "description": "Filed a provisional patent for AeroWave, an AI-driven smart helmet for deaf riders that enables sound-to-vibration feedback.",
             "images": [
